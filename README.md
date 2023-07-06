@@ -15,7 +15,7 @@ This is a user management system built with Node.js, MongoDB, Mongoose, Express,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/user-management-system.git
+git clone https://github.com/ch3lla/user-management-system.git
 ```
 
 2. Navigate to the project directory:
